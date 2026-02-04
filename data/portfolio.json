@@ -1,0 +1,18 @@
+{
+  "owner": "personal",
+  "base_currency": "INR",
+  "funds": [
+    {
+      "fund_name": "Parag Parikh Flexi Cap Fund",
+      "amfi_code": "122639",
+      "category": "Flexi Cap",
+      "invested_amount": 250000
+    },
+    {
+      "fund_name": "Axis Bluechip Fund",
+      "amfi_code": "120465",
+      "category": "Large Cap",
+      "invested_amount": 180000
+    }
+  ]
+}

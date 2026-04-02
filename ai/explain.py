@@ -6,7 +6,7 @@ from openai import OpenAI
 load_dotenv()  # loads variables from .env
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-#client = OpenAI(api_key="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")
+
 
 #client = OpenAI()
 

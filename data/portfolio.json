@@ -1,18 +1,32 @@
 {
   "owner": "personal",
+  "risk_profile": "moderate",
   "base_currency": "INR",
+  "created_at": "2025-01-01T00:00:00",
   "funds": [
     {
-      "fund_name": "Parag Parikh Flexi Cap Fund",
+      "fund_name": "Parag Parikh Flexi Cap Fund - Direct Plan",
       "amfi_code": "122639",
       "category": "Flexi Cap",
-      "invested_amount": 250000
+      "invested_amount": 250000,
+      "sip_amount": 5000,
+      "purchase_date": "2021-01-01"
     },
     {
-      "fund_name": "Axis Bluechip Fund",
+      "fund_name": "Axis Bluechip Fund - Direct Plan",
       "amfi_code": "120465",
       "category": "Large Cap",
-      "invested_amount": 180000
+      "invested_amount": 180000,
+      "sip_amount": 3000,
+      "purchase_date": "2021-06-01"
+    },
+    {
+      "fund_name": "Mirae Asset Emerging Bluechip - Direct Plan",
+      "amfi_code": "118989",
+      "category": "Large & Mid Cap",
+      "invested_amount": 100000,
+      "sip_amount": 2000,
+      "purchase_date": "2022-01-01"
     }
   ]
 }
